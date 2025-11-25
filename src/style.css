@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+.container{
+
+    margin: 0 auto;
+    max-width: 1480px;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+body{
+    background:#1A1A1A;
+}
+
+
+.fr{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    bottom: 360px;
+    left: 45px;
+}
